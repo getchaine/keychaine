@@ -10,7 +10,6 @@ const Box = styled.div`
   ${LAYOUT}
   ${sx}
   ${TYPOGRAPHY}
-  color
 `
 
 Box.defaultProps = {theme}

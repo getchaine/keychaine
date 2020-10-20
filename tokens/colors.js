@@ -1,59 +1,13 @@
 export const colors = {
-
-  label: ["#3D3D3D", "rgba(60, 60, 67, 0.6)", "rgba(60, 60, 67, 0.3)", "rgba(60, 60, 67, 0.18)"],
-  gray: ["#AEAEB2", "#C7C7CC", "#D1D1D6", "#E5E5EA", "#F2F2F7", "#8E8E93"],
-  white: "#FFF",
-  transluscent: "#FFFFFF, 45%",
-  red: ["#FF3B30"],
-  yellow: ["#FFCC00"],
-  orange: ["#FF9500"],
-  green: ["#34C759"],
-  teal: ["#5AC8FA"],
-  blue: ["#007AFF"],
-  indigo: ["#5856D6"],
-  purple: ["#AF52DE"],
-  pink: ["#FF2D55"],
-
-
-  /* TBD */
-  Other15Black: "#3C3C43, 15%",
-  OtherSpecialBlue: "#D9E8FF, 0.5",
-
+  //these are gitHub's colors, but these will work for now.  The array value will be the same once the colors are finalized so feel free to use
+    black: "#1b1f23",
+    white: "#fff",
+    gray: ["#fafbfc", "#f6f8fa", "#e1e4e8", "#d1d5da", "#959da5", "#6a737d", "#586069", "#444d56", "#2f363d", "#24292e"],
+    blue: ["#f1f8ff", "#dbedff", "#c8e1ff", "#79b8ff", "#2188ff", "#0366d6", "#005cc5", "#044289", "#032f62", "#05264c"],
+    green: ["#f0fff4", "#dcffe4", "#bef5cb", "#85e89d", "#34d058", "#28a745", "#22863a", "#176f2c", "#165c26", "#144620"],
+    yellow: ["#fffdef", "#fffbdd", "#fff5b1", "#ffea7f", "#ffdf5d", "#ffd33d", "#f9c513", "#dbab09", "#b08800", "#735c0f"],
+    orange: ["#fff8f2", "#ffebda", "#ffd1ac", "#ffab70", "#fb8532", "#f66a0a", "#e36209", "#d15704", "#c24e00", "#a04100"],
+    red: ["#ffeef0", "#ffdce0", "#fdaeb7", "#f97583", "#ea4a5a", "#d73a49", "#cb2431", "#b31d28", "#9e1c23", "#86181d"],
+    purple: ["#f5f0ff", "#e6dcfd", "#d1bcf9", "#b392f0", "#8a63d2", "#6f42c1", "#5a32a3", "#4c2889", "#3a1d6e", "#29134e"],
+    pink: ["#ffeef8", "#fedbf0", "#f9b3dd", "#f692ce", "#ec6cb9", "#ea4aaa", "#d03592", "#b93a86", "#99306f", "#6d224f"]
   };
-
-
-/*
-
-DARK MODE
-
-  Label Dark 
-
-  LabelDarkPrimary: "#3C3C43, 18%",
-  LabelDarkSecondary: "#EBEBF5, 60%",
-  LabelDarkTertiary: "EBEBF5, 30%",
-  LabelDarkQuaternary: "#EBEBF5, 18%",
-
-  System Grays
-
-  Gray01Dark: "#8E8E93",
-  Gray02Dark: "#636366",
-  Gray03Dark: "#48484A",
-  Gray04Dark: "#3A3A3C",
-  Gray05Dark: "#2C2C2E",
-  Gray06Dark: "#1C1C1E",
-
-  System Colors
-
-  RedDark: "#FF453A",
-  YellowDark: "#FFD60A",
-  OrangeDark: "#FF9F0A",
-  GreenDark: "#32D74B",
-  TealDark: "#64D2FF",
-  BlueDark: "#0A84FF",
-  IndigoDark: "#5E5CE6",
-  PurpleDark: "#BF5AF2",
-  PinkDark: "#FF2D55"
-
-
-
-*/

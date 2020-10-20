@@ -1,5 +1,6 @@
 import { tokens } from '../tokens/index'
 const {colors: colorTokens, spacing, typography} = tokens
+
 //const {lighten, rgba, desaturate} = require('polished')
 
 //const {lineHeights} = typography
@@ -18,14 +19,22 @@ export const theme = {
     whitefade15: 'rgba(255, 255, 255, 0.15)',
     whitefade50: 'rgba(255, 255, 255, 0.50)',
     whitefade70: 'rgba(255, 255, 255, 0.70)',
-    bg: {
+    backgroundColor: {
       disabled: '#000000'
     },
   },
 
   fonts: typography.fonts,
+  space: spacing.space, // SS also looks for a space array. Refer to docs: https://styled-system.com/table
+  radii: spacing.radii
 
 };
+
+
+
+
+
+
 
 //export default theme
 
