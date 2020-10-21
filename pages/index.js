@@ -1,6 +1,5 @@
 import Card from '../components/Card';
 import Box from '../components/Box';
-import {reversednewcat} from '../components/palette';
 import styled from 'styled-components'
 
 export default function HomePage() {
@@ -12,9 +11,6 @@ export default function HomePage() {
     <Card>hey</Card>
     <Card>hello</Card>
     </Box>
-
-    {reversednewcat}
-
     </div>
   );
 };

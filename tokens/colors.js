@@ -1,13 +1,14 @@
 export const colors = {
   //these are gitHub's colors, but these will work for now.  The array value will be the same once the colors are finalized so feel free to use
-    black: "#1b1f23",
-    white: "#fff",
-    gray: ["#fafbfc", "#f6f8fa", "#e1e4e8", "#d1d5da", "#959da5", "#6a737d", "#586069", "#444d56", "#2f363d", "#24292e"],
-    blue: ["#f1f8ff", "#dbedff", "#c8e1ff", "#79b8ff", "#2188ff", "#0366d6", "#005cc5", "#044289", "#032f62", "#05264c"],
-    green: ["#f0fff4", "#dcffe4", "#bef5cb", "#85e89d", "#34d058", "#28a745", "#22863a", "#176f2c", "#165c26", "#144620"],
-    yellow: ["#fffdef", "#fffbdd", "#fff5b1", "#ffea7f", "#ffdf5d", "#ffd33d", "#f9c513", "#dbab09", "#b08800", "#735c0f"],
-    orange: ["#fff8f2", "#ffebda", "#ffd1ac", "#ffab70", "#fb8532", "#f66a0a", "#e36209", "#d15704", "#c24e00", "#a04100"],
-    red: ["#ffeef0", "#ffdce0", "#fdaeb7", "#f97583", "#ea4a5a", "#d73a49", "#cb2431", "#b31d28", "#9e1c23", "#86181d"],
-    purple: ["#f5f0ff", "#e6dcfd", "#d1bcf9", "#b392f0", "#8a63d2", "#6f42c1", "#5a32a3", "#4c2889", "#3a1d6e", "#29134e"],
-    pink: ["#ffeef8", "#fedbf0", "#f9b3dd", "#f692ce", "#ec6cb9", "#ea4aaa", "#d03592", "#b93a86", "#99306f", "#6d224f"]
+    black: "#1E1E1E",
+    white: "#FFFFFF",
+    gray: ["#F2F2F7", "#E5E5EA", "#D1D1D6", "#C7C7CC", "#AEAEB2", "#8E8E93", "#666668", "#3D3D3D", "#2C2C2E"],
+    blue: [ "#CCE4FF", "#99CAFF", "#66AFFF", "#3394FF", "#007AFF", "#006BDF", "#005BBF", "#004C9F", "#003D80" ],
+    green: [ "#D4F7DC", "#A9EDBA", "#81E299", "#5AD579", "#34C759", "#2BB04D", "#239941", "#1C8135", "#15692A" ],
+    teal: [ "#DBF5FF", "#B8EBFF", "#97E0FF", "#78D4FE", "#5AC8FA", "#4CB0DD", "#3F98BF", "#337F9F", "#276680" ],
+    yellow: [ "#FFF8CC", "#FFEF99", "#FFE566", "#FFD933", "#FFCC00", "#DFB500", "#BF9D00", "#9F8500", "#806B00" ],
+    orange: [ "#FFEBCC", "#FFD699", "#FFC166", "#FFAB33", "#FF9500", "#DF8300", "#BF7100", "#9F5F00", "#804C00" ],
+    red: [ "#FFD4D2", "#FFABA6", "#FF847D", "#FF5F55", "#FF3B30", "#DF3127", "#BF271F", "#9F1F17", "#801711" ],
+    purple: [ "#F0DAFB", "#E0B6F6", "#D093EF", "#C072E7", "#AF52DE", "#9A46C4", "#853AAA", "#6F2F8F", "#592474" ],
+    pink: [ "#FFE0ED", "#FFC2DA", "#FFA5C9", "#FF8AB7", "#FF70A6", "#DF6091", "#BF507C", "#9F4167", "#803352" ]
   };
